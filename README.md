@@ -2,8 +2,7 @@
 
 Software Engineer with 8+ years of experience building scalable web applications.  
 
-Specialized in full-stack development using React, Next.js, Node.js, and Laravel.  
-Focused on clean architecture, performance, and user-centric design.  
+Specialized in full-stack development using React, Next.js, Node.js, and Laravel. Focused on clean architecture, performance, and user-centric design.  
 
 🚀 Always learning and open to impactful collaborations.
 
