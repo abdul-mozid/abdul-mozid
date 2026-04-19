@@ -1,18 +1,15 @@
 ## 👋 About Me
 
-Hi, I'm Abdul Mozid — a passionate Software Engineer with 8+ years of experience in building scalable and modern web applications.
+Software Engineer with 8+ years of experience building scalable web applications.  
 
-I specialize in full-stack development with a strong focus on technologies like React, Next.js, Node.js, Laravel, and cloud-based solutions. I enjoy turning complex ideas into clean, efficient, and user-friendly systems.
-
-Currently, I’m working on developing impactful digital solutions, with a focus on performance, scalability, and maintainability.
+Specialized in full-stack development with React, Next.js, Node.js, and Laravel, focusing on clean architecture, performance, and user-centric design.  
 
 💡 What I do:
-- Build scalable web applications and APIs  
-- Design clean and responsive user interfaces  
-- Work with modern JavaScript frameworks and backend systems  
-- Continuously learn and explore new technologies  
+- Build high-performance web apps and APIs  
+- Design clean, intuitive user interfaces  
+- Develop scalable full-stack systems  
 
-🚀 Always open to collaboration and interesting projects.
+🚀 Always learning and open to impactful collaborations.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ab.mozid034) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-mozid) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/abdul-mozid) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mozid.it@gmail.com) 
