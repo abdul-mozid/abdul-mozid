@@ -1,3 +1,18 @@
+## 👋 About Me
+
+Hi, I'm Abdul Mozid — a passionate Software Engineer with over 8 years of experience in building modern, scalable web applications. I currently work with the Government of Bangladesh, where I contribute to developing impactful digital solutions and systems.
+
+I specialize in full-stack development, with strong expertise in technologies like React, Next.js, Node.js, Laravel, and modern JavaScript frameworks. I enjoy turning complex problems into clean, efficient, and user-friendly solutions.
+
+Over the years, I’ve worked on a variety of projects including web applications, dashboards, and data-driven systems, always focusing on performance, usability, and maintainability.
+
+💡 I’m particularly interested in:
+- Building scalable and maintainable applications  
+- Creating clean UI/UX experiences  
+- Working with APIs and system integrations  
+- Exploring new technologies and improving development workflows  
+
+🚀 I’m always learning, improving, and open to collaboration on exciting projects.
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Missionhackersbangladesh) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCAEwEqh2tugQXyL7l6ma_fA) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@SHAJALAL) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shajalal.cse.cu@gmail.com) 
 
